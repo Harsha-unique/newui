@@ -1,0 +1,26 @@
+a {
+  text-decoration: none !important;
+}
+
+/* header {
+  padding: 0.5 rem !important;
+} */
+
+/* .background-class {
+  background-color: #008664;
+} */
+
+
+button{
+  background-color: aqua;
+  border-radius: 0%;
+  border: none;
+}
+.solution-card,
+.solution-card p {
+  color: black !important;
+}
+
+.solution-card:hover h2 {
+  color: #008664!important;
+}
